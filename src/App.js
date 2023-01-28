@@ -17,24 +17,24 @@ export default function App() {
             This project was coded by{" "}
             <a
               href="https://www.shecodes.io/graduates/52615-olha-bondarenko"
-              target="_blank"
               title="SheCodes Profile"
+              rel="noreferer"
             >
               Olha Bondarenko
             </a>{" "}
             and is{" "}
             <a
               href="https://github.com/Olha1990/dictionary-project"
-              target="_blank"
               title="Github Profile"
+              rel="noreferrer"
             >
               open-sourced on GitHub
             </a>{" "}
             and{" "}
             <a
               href="https://astounding-brigadeiros-60efe1.netlify.app"
-              target="_blank"
               title="Netlify link"
+              rel="noreferrer"
             >
               hosted on Netlify
             </a>
