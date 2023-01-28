@@ -13,7 +13,32 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Olha Bondarenko</small>
+          <small>
+            This project was coded by{" "}
+            <a
+              href="https://www.shecodes.io/graduates/52615-olha-bondarenko"
+              target="_blank"
+              title="SheCodes Profile"
+            >
+              Olha Bondarenko
+            </a>{" "}
+            and is{" "}
+            <a
+              href="https://github.com/Olha1990/dictionary-project"
+              target="_blank"
+              title="Github Profile"
+            >
+              open-sourced on GitHub
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://astounding-brigadeiros-60efe1.netlify.app"
+              target="_blank"
+              title="Netlify link"
+            >
+              hosted on Netlify
+            </a>
+          </small>
         </footer>
       </div>
     </div>
